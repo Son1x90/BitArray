@@ -1,0 +1,2 @@
+# BitArray
+bitArray returning bool
